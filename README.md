@@ -17,8 +17,11 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 ## Utterances
 
 ### Crypto Utterance
+
 *What is todays price
+
 *What is the rate of return
+
 *Where can I buy crypto
 
 Transaction Tracker Utterance
