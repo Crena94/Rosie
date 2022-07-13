@@ -24,11 +24,11 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 
 * Where can I buy crypto
 
-Transaction Tracker Utterance
+### Transaction Tracker Utterance
 
-Expense Tracker Utterance
+### Expense Tracker Utterance
 
-Subscription Tracker Utterance
+### Subscription Tracker Utterance
 
 ## Examples
 
