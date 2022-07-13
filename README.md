@@ -1,6 +1,6 @@
 # Rosie 
 
---- We created a chatbot using Amazon Lex and several Lambda functions.  You can ask the bot about crypto, transactions, expenses, and subcriptions. 
+---Rosie is a robotic personal assistant built on top of Amazon Lex's platform which allows for easy bootstrapping of chatbots with conversational AI capabilities.  Using Amazon Lambda functions and their integration with Amazon Lex, we created a chatbot with several intents at its disposal. 
 
 ## Technologies
 
@@ -14,6 +14,15 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 ```from botocore.vendored import requests```
 ```import json```
 
+## Utterances
+
+Crypto Utterance
+
+Transaction Tracker Utterance
+
+Expense Tracker Utterance
+
+Subscription Tracker Utterance
 
 ## Examples
 
