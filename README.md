@@ -18,7 +18,7 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 ## Examples
 
 ### Crypto Intent Example
-![alt_text](insert Dave's pics)
+![alt_text](https://github.com/Crena94/TeamRosie/blob/main/crypto_bot_test.png)
 
 ### Transcation Tracker Example
 ![alt text](insert Matt's pic)
