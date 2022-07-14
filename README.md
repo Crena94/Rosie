@@ -14,7 +14,7 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 ```from botocore.vendored import requests```
 ```import json```
 
-## Utterances
+## Sample Utterances
 
 ### Crypto Utterance
 
