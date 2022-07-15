@@ -26,6 +26,10 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 
 ### Transaction Tracker Utterance
 
+* What was the amount of my last purchase
+
+* What were the top merchants where I spent money
+
 ### Expense Tracker Utterance
 
 ### Subscription Tracker Utterance
@@ -36,7 +40,7 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 ![alt_text](https://github.com/Crena94/TeamRosie/blob/main/crypto_bot_test.png)
 
 ### Transcation Tracker Example
-![alt text](insert Matt's pic)
+![alt text](https://github.com/Crena94/TeamRosie/blob/main/transaction_bot_test.png)
 
 ### Expense Tracker Example
 ![alt text](insert Darien's pic)
