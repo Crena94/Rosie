@@ -32,6 +32,12 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 
 ### Expense Tracker Utterance
 
+* What are my expenses balance
+
+* What are my expenses
+
+* When is my expenses bill due.
+
 ### Subscription Tracker Utterance
 
 ## Examples
@@ -43,7 +49,7 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 ![alt text](https://github.com/Crena94/TeamRosie/blob/main/transaction_bot_test.png)
 
 ### Expense Tracker Example
-![alt text](insert Darien's pic)
+![alt text](insert Darian's pic)
 
 ### Subscription Intent Examples
 ![alt_text](insert Ashleigh's pic)
