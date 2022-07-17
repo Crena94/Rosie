@@ -60,6 +60,7 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 
 ![alt text](https://github.com/Crena94/TeamRosie/blob/main/Pic%20of%20subscription%20tracker%20.png)
 
+![alt text](https://github.com/Crena94/TeamRosie/blob/main/Screen%20Shot%202022-07-17%20at%207.18.51%20PM.png)
 
 ## Contributors
 
