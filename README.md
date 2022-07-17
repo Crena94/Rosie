@@ -40,7 +40,12 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 
 ### Subscription Tracker Utterance
 
-## Examples
+* When does my subscription end
+ 
+* When does my subscription renew
+
+* How much does my subscription cost
+
 
 ### Crypto Intent Example
 ![alt_text](https://github.com/Crena94/TeamRosie/blob/main/crypto_bot_test.png)
@@ -52,7 +57,7 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 ![alt text](https://github.com/Crena94/TeamRosie/blob/63acc68cb2a55de5ad7c7e5d13b3798c7ad235a4/expense_tracker_bot_test.png)
 
 ### Subscription Intent Examples
-![alt_text](insert Ashleigh's pic)
+
 
 
 
