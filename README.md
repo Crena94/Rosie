@@ -58,7 +58,7 @@ Every dependency needed to run the bot is provided in each lambda function, but 
 
 ### Subscription Intent Examples
 
-
+![alt text](https://github.com/Crena94/TeamRosie/blob/main/Pic%20of%20subscription%20tracker%20.png)
 
 
 ## Contributors
